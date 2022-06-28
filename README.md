@@ -1,5 +1,5 @@
 # Arad_Project
-Data mining and Analyzing for: Shaler Medical Emergency Center  
+Data mining and Analyzing for: Shaler Emergency Medical Center  
 the Shaler Medical Emergency Center asked me to work on this project 
 they sent me data from 2012 to 2022
 65657 rows of a messed up data 
